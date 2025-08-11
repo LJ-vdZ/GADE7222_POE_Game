@@ -57,11 +57,8 @@ Esc	Pause / Menu
 (Add your game screenshots here)
 👥 Team Members
 
-    [Your Name] – Programming, Game Design
-
-    [Teammate Name] – 3D Assets, UI/UX Design
-
-    [Teammate Name] – Sound Design, Level Design
+    Jet Kingston
+    Lazjessicah
 
 ⚙️ Development Tools
 
